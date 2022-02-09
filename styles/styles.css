@@ -3,7 +3,6 @@ body {
     font-family: 'Montserrat', sans-serif;
     color: #ffffff !important;
     box-sizing: border-box;
-    width: 100%;
     overflow-x: hidden;
 }
 
@@ -1375,16 +1374,36 @@ ul {
 }
 
 @media (min-width: 360px) and (max-width: 400px) {
+    body {
+        width: 100%;
+    }
     .wrapper {
         width: 100%;
     }
     .header {
         width: 100%;
     }
+    .our-stories-block {
+        width: 100%;
+        overflow-x: hidden;
+    }
     .panel {
         width: 100%;
+        overflow-x: hidden;
+    }
+    .forma-field {
+        width: 30%;
     }
     .header__navigator {
+        width: 100%;
+    }
+    .our-stories-flexbox__item1 {
+        width: 100%;
+    }
+    .our-stories-flexbox__item12 {
+        width: 100%;
+    }
+    .our-stories-flexbox__item13 {
         width: 100%;
     }
     .story {
