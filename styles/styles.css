@@ -1381,10 +1381,16 @@ ul {
     .header {
         width: 100%;
     }
+    .panel {
+        width: 100%;
+    }
     .header__navigator {
         width: 100%;
     }
     .story {
+        width: 100%;
+    }
+    .menu-accordion {
         width: 100%;
     }
     .flex-foursteps {
