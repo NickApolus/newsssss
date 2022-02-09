@@ -4,6 +4,11 @@ body {
     color: #ffffff !important;
     box-sizing: border-box;
     width: 100%;
+    overflow-x: hidden;
+}
+
+html {
+    overflow-x: hidden;
 }
 
 a {
@@ -1377,6 +1382,9 @@ ul {
         width: 100%;
     }
     .header__navigator {
+        width: 100%;
+    }
+    .story {
         width: 100%;
     }
     .flex-foursteps {
