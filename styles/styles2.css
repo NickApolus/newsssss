@@ -3,6 +3,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     color: #ffffff !important;
     box-sizing: border-box;
+    width: 100%;
 }
 
 a {
@@ -11,7 +12,7 @@ a {
 }
 
 .wrapper {
-    max-width: 1200px;
+    width: 100%;
     margin: 0 auto;
 }
 

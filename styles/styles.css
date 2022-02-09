@@ -1372,6 +1372,12 @@ ul {
     .wrapper {
         width: 100%;
     }
+    .header {
+        width: 100%;
+    }
+    .header__navigator {
+        width: 100%;
+    }
     .flex-foursteps {
         display: none;
     }
